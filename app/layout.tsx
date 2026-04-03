@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   description: "Aplikasi pencatat skor Ceki yang cepat, ringan, dan nyaman dipakai di mobile.",
   applicationName: "Ceki Coy",
   keywords: ["ceki", "scorekeeper", "pencatat skor", "kartu"],
+  verification: {
+    google: "SsKBPeCshBXV3zHU4d-MYrp7W5vOadMzlM1Odbira7U",
+  },
   openGraph: {
     title: "Ceki Coy - Scorekeeper",
     description: "Catat skor permainan Ceki dengan cepat dan rapi langsung dari browser.",
